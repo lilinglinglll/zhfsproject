@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="room1imageview" type="id" />
+    <item name="room2imageview" type="id" />
+    <item name="room3imageview" type="id" />
+    <item name="room4imageview" type="id" />
+</resources>
